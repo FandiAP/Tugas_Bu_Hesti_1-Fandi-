@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tugas_Bu_Hesti_1</string>
+    <string name="nama" />
+    <string name="tanggallahir" />
+    <string name="ktp" />
+    <string name="alamat" />
+    <string name="total" />
+    <string name="namalengkap" />
+    <string name="birth" />
+    <string name="idktp" />
+    <string name="address" />
+    <string name="Nama" />
+    <string name="Jenis" />
+    <string name="Jumlah" />
+    <string name="Beli" />
+    <string name="Nama_Pembeli" />
+    <string name="Jmlh" />
+    <string name="Alamat" />
+</resources>
